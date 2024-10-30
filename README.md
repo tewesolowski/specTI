@@ -2,7 +2,7 @@
 
 The repository of materials and code examples for the specialization course at Salesian Technical School.
 
-Tasks & deadlines <BR/>
+## Tasks & deadlines <BR/>
 kantor01 - MVC application based on the first example, deadline -> 30.09.2024 <BR/>
 
 kantor02 - add resource protection using sessions (+ functions in controllers), based on the second example, deadline -> 30.10.2024 <BR/>
@@ -13,4 +13,4 @@ kantor04 - start using Smarty library (from Laravel) to generate the views based
 
 kantor05 - let's change into object oriented programming OOP, deadline => 28.01.2025 <BR/>
 
-Summer term - framework <BR/>
+## Summer term - framework <BR/>
